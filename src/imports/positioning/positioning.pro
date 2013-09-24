@@ -1,4 +1,4 @@
-QT += quick-private positioning-private qml-private core-private
+QT += quick-private positioning-private qml-private core-private v8-private
 
 INCLUDEPATH *= $$PWD
 DEFINES += TOUCH_EVENT_WORKAROUND
